@@ -1,0 +1,2 @@
+This is an async node js file.
+This is another appended text in async file.
